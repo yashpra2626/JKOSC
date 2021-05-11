@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/JKOSC/static/css/main.96abded5.chunk.css",
-    "main.js": "/JKOSC/static/js/main.4742e7f2.chunk.js",
-    "main.js.map": "/JKOSC/static/js/main.4742e7f2.chunk.js.map",
+    "main.js": "/JKOSC/static/js/main.98378ead.chunk.js",
+    "main.js.map": "/JKOSC/static/js/main.98378ead.chunk.js.map",
     "runtime-main.js": "/JKOSC/static/js/runtime-main.81e39513.js",
     "runtime-main.js.map": "/JKOSC/static/js/runtime-main.81e39513.js.map",
     "static/js/2.f4f2dd86.chunk.js": "/JKOSC/static/js/2.f4f2dd86.chunk.js",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.81e39513.js",
     "static/js/2.f4f2dd86.chunk.js",
     "static/css/main.96abded5.chunk.css",
-    "static/js/main.4742e7f2.chunk.js"
+    "static/js/main.98378ead.chunk.js"
   ]
 }
