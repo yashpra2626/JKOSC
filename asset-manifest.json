@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/JKOSC/static/css/main.56bbdaa2.chunk.css",
+    "main.css": "/JKOSC/static/css/main.3a162d6d.chunk.css",
     "main.js": "/JKOSC/static/js/main.9d589c30.chunk.js",
     "main.js.map": "/JKOSC/static/js/main.9d589c30.chunk.js.map",
     "runtime-main.js": "/JKOSC/static/js/runtime-main.e95e49bc.js",
@@ -10,21 +10,21 @@
     "static/js/3.3abb7e46.chunk.js": "/JKOSC/static/js/3.3abb7e46.chunk.js",
     "static/js/3.3abb7e46.chunk.js.map": "/JKOSC/static/js/3.3abb7e46.chunk.js.map",
     "index.html": "/JKOSC/index.html",
-    "static/css/main.56bbdaa2.chunk.css.map": "/JKOSC/static/css/main.56bbdaa2.chunk.css.map",
+    "static/css/main.3a162d6d.chunk.css.map": "/JKOSC/static/css/main.3a162d6d.chunk.css.map",
     "static/js/2.2b319334.chunk.js.LICENSE.txt": "/JKOSC/static/js/2.2b319334.chunk.js.LICENSE.txt",
-    "static/media/HomePage.css": "/JKOSC/static/media/back1.b12396ae.jpg",
     "static/media/BloomUp.css": "/JKOSC/static/media/back35.873b95e8.jpg",
     "static/media/Alumni.css": "/JKOSC/static/media/back5.58ad3ffa.jpg",
     "static/media/favicon.28d386ec.png": "/JKOSC/static/media/favicon.28d386ec.png",
     "static/media/jkosc-logo-1.559d3579.png": "/JKOSC/static/media/jkosc-logo-1.559d3579.png",
     "static/media/jkosc-logo.7c8cde65.png": "/JKOSC/static/media/jkosc-logo.7c8cde65.png",
     "static/media/Incept.css": "/JKOSC/static/media/try2.b3a532ad.jpg",
+    "static/media/HomePage.css": "/JKOSC/static/media/try3.e46ab373.jpg",
     "static/media/AboutPage.css": "/JKOSC/static/media/try42.289cec99.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.e95e49bc.js",
     "static/js/2.2b319334.chunk.js",
-    "static/css/main.56bbdaa2.chunk.css",
+    "static/css/main.3a162d6d.chunk.css",
     "static/js/main.9d589c30.chunk.js"
   ]
 }
